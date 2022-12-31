@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "disney-4cc60"
+  },
+  "targets": {
+    "disney-4cc60": {
+      "hosting": {
+        "tr": [
+          "schedule-8b95f"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
